@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil</title>
-    <link rel="stylesheet" href="style.css?v=40">
+    <link rel="stylesheet" href="CSS/style.css?v=40">
     <div class="boutons-action">
     <a href="contact.php" class="btn-action btn-inscription">
         <i class="fa-solid fa-user-plus"></i> Inscription
