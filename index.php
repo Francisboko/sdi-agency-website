@@ -24,7 +24,7 @@
 <nav>
     <div class="nav-left">
         <a class="logo" href="index.php">
-            <img src="logo-sdi2.png" alt="Logo SDI" style="height: 45px; vertical-align: middle;">
+            <img src="images/logo-sdi2.png" alt="Logo SDI" style="height: 45px; vertical-align: middle;">
         </a>
 <div class="titre-simple">
         <span><h2>SDI Votre Partenaire Numérique à Madagascar</h2></span>
@@ -56,7 +56,7 @@
     </p>
     <!-- PHOTO AU MILIEU -->
     <div style="margin: 15px auto;">
-        <img src="photo.jpg" 
+        <img src="images/photo.jpg" 
              alt="BOKOARIVELO Francis"
              style="
                 width: 150px;
@@ -135,11 +135,11 @@
 <!-- SLIDER PHOTOS -->
 <div class="slider-container reveal-on-scroll">
     <div class="slider-wrapper" id="sliderWrapper">
-        <img src="fr6.jpg" class="slide-img" alt="Slide 1">
-        <img src="domaine.jpg" class="slide-img" alt="Slide 2">
-        <img src="Github.jpg" class="slide-img" alt="Slide 3">
-        <img src="https.jpg" class="slide-img" alt="Slide 4">
-        <img src="projet-login.jpg" class="slide-img" alt="Slide 5">
+        <img src="images/fr6.jpg" class="slide-img" alt="Slide 1">
+        <img src="images/domaine.jpg" class="slide-img" alt="Slide 2">
+        <img src="images/Github.jpg" class="slide-img" alt="Slide 3">
+        <img src="images/https.jpg" class="slide-img" alt="Slide 4">
+        <img src="images/projet-login.jpg" class="slide-img" alt="Slide 5">
     </div>
     <button class="slider-btn prev" onclick="changeSlide(-1)">&#10094;</button>
     <button class="slider-btn next" onclick="changeSlide(1)">&#10095;</button>
@@ -169,7 +169,7 @@
         </ul>
     </div>
     <div class="card-image">
-        <img src="projet-gestion.jpg" alt="Gestion de projet">
+        <img src="images/projet-gestion.jpg" alt="Gestion de projet">
     </div>
 </div><br>
 <!-- CARTE 2 : Tarifs (déjà faite, on la garde) -->
@@ -183,7 +183,7 @@
         <a href="contact.php" class="btn-commander">Commandez maintenant</a>
     </div>
     <div class="card-image">
-        <img src="projet-upload.jpg" alt="Tarifs SDI">
+        <img src="images/projet-upload.jpg" alt="Tarifs SDI">
     </div>
 </div><br>
 <!-- CARTE 3 : Hébergement -->
@@ -200,7 +200,7 @@
         </ul>
     </div>
     <div class="card-image">
-        <img src="hebergement.jpg" alt="Hébergement rapide">
+        <img src="images/hebergement.jpg" alt="Hébergement rapide">
     </div>
 </div><br>
 
@@ -217,7 +217,7 @@
         </ul>
     </div>
     <div class="card-image">
-        <img src="formation.jpg" alt="Formation infographie">
+        <img src="images/formation.jpg" alt="Formation infographie">
     </div>
 </div>
 <br>
@@ -252,7 +252,7 @@
 <footer>
     <div class="footer-container">
         <div class="footer-col">
-            <img src="logo-sdi2.png" alt="Logo SDI" style="height: 50px;">
+            <img src="images/logo-sdi2.png" alt="Logo SDI" style="height: 50px;">
             <h3>SDI</h3>
         </div>
         <div class="footer-col">
